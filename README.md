@@ -1,6 +1,6 @@
 # Predicting Insurance Policy Costs Using Machine Learning
 
-[Kaggle Competitions](https://www.kaggle.com/competitions/data-science-5-sbu/leaderboard) Fifth score (1.0946213014)
+[Kaggle Competition](https://www.kaggle.com/competitions/data-science-5-sbu/leaderboard) Fifth score (1.0946213014)
 
 [Full Report](https://drive.google.com/file/d/1Cf21G0ubgu8sm_Y_j2p2E1bngO8KpD2U/view?usp=sharing)
 
