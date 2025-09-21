@@ -2,7 +2,7 @@
 
 [Link to Kaggle Competitions](https://www.kaggle.com/competitions/data-science-5-sbu/leaderboard) Fifth score (1.0946213014)
 
-[Link to Report](https://www.kaggle.com/competitions](https://drive.google.com/file/d/1UCbBt3yp75kuJFooORZPd_l8Ij1iuE9V/view?usp=sharing))
+[Link to Report](https://drive.google.com/file/d/1Cf21G0ubgu8sm_Y_j2p2E1bngO8KpD2U/view?usp=sharing)
 
 ---
 
